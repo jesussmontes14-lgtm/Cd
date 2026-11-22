@@ -26,6 +26,13 @@
 - Disclaimer de la página: "Contenido educativo de bienestar. No reemplaza la consulta ni el
   diagnóstico médico profesional."
 
+## Oferta temporal: Black November (dato del creador, 2026-11-22)
+- Regalo: libro del **reto de 21 días** [NOMBRE EXACTO — ¿es "MI PLAN 21 DÍAS" gratis?]
+- **LO QUE COMO YO** más económico: [PRECIO BLACK NOVEMBER] (normal USD 6.90)
+- Vigencia: [FECHA Y HORA DE FIN] · Países / zona horaria: [...]
+- Página de venta actualizada con la oferta: [PENDIENTE — hoy muestra los order bumps normales]
+- La urgencia solo se usa con la fecha real de fin (skill `compliance`: nada de escasez inventada).
+
 ## Contenido
 | Cap. | Título | Descripción literal |
 |------|--------|---------------------|

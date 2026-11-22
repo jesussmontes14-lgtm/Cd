@@ -5,6 +5,7 @@ La skill `aprender` escribe aquí. Formato:
 
 ## Preferencias del creador
 <!-- Correcciones y gustos. Aplican desde la primera vez. -->
+- 2026-11-22 · Le interesan los formatos de DRAMA narrativo (historia de pareja con caída, transformación y arrepentimiento del otro) además de los formatos de chef. Pide conceptos variados entre sí.
 
 ## Lecciones confirmadas
 
@@ -17,3 +18,4 @@ La skill `aprender` escribe aquí. Formato:
 
 ## Cambios de oferta
 <!-- Fecha + qué cambió. Los resultados anteriores dejan de ser comparables 1:1. -->
+- 2026-11-22 · Black November: regalo del libro del reto de 21 días + LO QUE COMO YO a precio reducido. Precio, nombre exacto y fecha de fin pendientes.
