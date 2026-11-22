@@ -42,10 +42,11 @@ VOZ.md y APRENDIZAJES.md leídos. Si el video va a pauta, revisa también `anunc
    por qué rompe el patrón del feed (una línea).
 2. **TABLA DE PLANOS**
 
-   | # | Tiempo | Plano / ángulo | Qué se ve | Línea exacta | Texto en pantalla |
+   | # | Tiempo | Plano / ángulo | Qué se ve | Línea exacta | Texto en pantalla | Fuente |
 
    Ningún plano > 3 s · nunca dos planos seguidos iguales en tamaño o ángulo · un plano de
-   quiebre (otra luz, escala o ritmo) cerca del primer tercio.
+   quiebre (otra luz, escala o ritmo) cerca del primer tercio. Fuente = GRABAR / IA / STOCK;
+   los planos IA salen con su prompt de la skill `visuales-ia`.
 3. **GUION CORRIDO** — bloque de código, palabra por palabra, con conteo de palabras y segundos.
 4. **PLAN DE GRABACIÓN** — tomas en el orden más rápido de grabar (no del montaje): qué, dónde,
    con qué, si hace falta alguien que grabe. Si hay variantes de gancho, se graban seguidas.

@@ -14,7 +14,7 @@ Meta, trabajando con Claude Code.
 
 - `CLAUDE.md` — identidad, leyes y flujo del agente.
 - `.claude/skills/` — métodos que crecen con lo aprendido: `producto`, `ganchos`, `guion`,
-  `anuncio-meta`, `compliance`, `aprender`.
+  `visuales-ia`, `anuncio-meta`, `compliance`, `aprender`.
 - `proyectos/<producto>/` — oferta y avatar (`PRODUCTO.md`), voz (`VOZ.md`), piezas y métricas
   (`REGISTRO.md`) y lecciones (`APRENDIZAJES.md`).
 - `proyectos/_plantilla/` — base para un producto nuevo.

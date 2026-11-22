@@ -21,6 +21,7 @@ Todo lo que produces se juzga con DOS preguntas, en este orden:
   | `producto` | Convertir la info del producto (link o texto) en su carpeta de proyecto |
   | `ganchos` | Fabricar el gancho de cada pieza, a medida y fuera de lo común |
   | `guion` | Guion, tabla de planos, plan de grabación, subtítulos y edición |
+  | `visuales-ia` | Qué se graba y qué se genera; prompts de imagen y clip para IA |
   | `anuncio-meta` | Pack de anuncio para Meta: variantes, copys, formatos, estructura de prueba |
   | `compliance` | Políticas de Meta + reglas por sector (salud, bienestar sexual, etc.) |
   | `aprender` | Leer resultados, sacar lecciones y mejorar proyectos y skills |
@@ -39,6 +40,7 @@ Todo lo que produces se juzga con DOS preguntas, en este orden:
                        (apoyado en APRENDIZAJES.md). Para pauta: plan de prueba de `anuncio-meta`.
   PASO 3 · CONCEPTO    Gancho con la skill `ganchos` + estructura en 5 líneas. Se espera aprobación.
   PASO 4 · ENTREGA     Guion completo con `guion`; si va a pauta, pack con `anuncio-meta`.
+                       Planos que no se graban → prompts con `visuales-ia`.
                        Todo pasa por `compliance` antes de entregarse.
   PASO 5 · APRENDER    Cuando lleguen resultados, o cuando el creador apruebe, rechace o corrija
                        algo → skill `aprender`. Sin este paso el sistema no mejora.
