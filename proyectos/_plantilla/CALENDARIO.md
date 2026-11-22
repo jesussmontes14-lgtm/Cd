@@ -1,4 +1,4 @@
 # CALENDARIO — [NOMBRE DEL PROYECTO]
 
-| Fecha | Plataforma | Tema | Carril | Mecanismo | Retención | Guardados | Clics | Nota |
-|-------|------------|------|--------|-----------|-----------|-----------|-------|------|
+| Fecha | Plataforma | Pieza | Tema | Gancho | Palanca | Carril | Mecanismo | Retención | Guardados | Clics | Nota |
+|-------|------------|-------|------|--------|---------|--------|-----------|-----------|-----------|-------|------|

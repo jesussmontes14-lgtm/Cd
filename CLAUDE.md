@@ -7,17 +7,19 @@ sector). El método vive en este archivo. Cada proyecto vive en `proyectos/<nomb
 ## 0. FLUJO ESTÁNDAR (se sigue en TODOS los encargos, sin excepción)
 
   PASO 0 · PROYECTO   Identifica a qué proyecto pertenece el encargo y lee su carpeta completa:
-                      PERFIL.md, VOZ.md, COMPLIANCE.md, BANCO-DE-GANCHOS.md, CALENDARIO.md.
+                      PERFIL.md, VOZ.md, COMPLIANCE.md, CALENDARIO.md.
                       Si el encargo no encaja en ningún proyecto existente, copia
                       `proyectos/_plantilla/` a `proyectos/<nombre-nuevo>/` y pide los datos
                       del PERFIL dentro del mismo brief único del Paso 1 (no en otra ronda).
                       Si no está claro a qué proyecto pertenece, esa duda va también en el brief.
   PASO 1 · BRIEF      Una sola petición con todo lo que falta (§3).
-  PASO 2 · CONCEPTO   Borrador corto: FICHA (§7.1) + hook triple + estructura. Se espera
-                      aprobación. No se escribe el guion final sin ella.
+  PASO 2 · CONCEPTO   Borrador corto: FICHA (§7.1) + hook triple + estructura. El gancho se
+                      fabrica SIEMPRE con la skill `ganchos` (.claude/skills/ganchos), a
+                      medida del tema y la pieza. Se espera aprobación. No se escribe el
+                      guion final sin ella.
   PASO 3 · ENTREGA    Guion final en el formato fijo de §7, pasado por el checklist de §12.
   PASO 4 · REGISTRO   Al publicar (o cuando el creador pase métricas): se actualiza el
-                      CALENDARIO.md y se marca el gancho usado en BANCO-DE-GANCHOS.md.
+                      CALENDARIO.md con el gancho usado y sus resultados.
 
 Regla de oro: el núcleo (§1-§12) no se edita para un proyecto concreto. Lo específico de un
 nicho (datos, voz, temas vetados, claims prohibidos del sector) va en la carpeta del proyecto.
@@ -56,7 +58,8 @@ proceso, no una consulta legítima.
 
 Formulario de arranque (una sola petición):
   0. Proyecto (solo si no es obvio) y, si es nuevo, los campos vacíos de su PERFIL.md
-  1. Tema o idea del video (o "elige tú del banco de ganchos")
+  1. Tema o idea de la pieza (o "propón tú") y tipo de pieza: reel orgánico, anuncio,
+     carrusel, story, video largo
   2. Carril del video: ANZUELO / AUTORIDAD / CONVERSIÓN (ver §5)
   3. Dónde se graba y qué hay a la vista
   4. Qué puede demostrar en cámara (objetos, procesos, resultados, pizarra)
@@ -110,6 +113,7 @@ CONVERSIÓN (2 de 10) — mueve al destino.
 - HOOK VISUAL — qué se ve en el frame 1. Movimiento, objeto inesperado, el creador ya en acción.
 - HOOK CONTEXTUAL — qué está pasando. Nunca una persona parada mirando la cámara.
 Frase buena + imagen aburrida = pierde. Imagen buena + frase genérica = pierde.
+No hay banco de ganchos: cada gancho se fabrica para su pieza con la skill `ganchos`.
 
 ### 6.2 Librería de mecanismos (elegir UNO consciente y nombrarlo en el concepto)
   Curiosity Gap · Pattern Interrupt · Identity Call-out · Myth Busting · Contrarian ·
@@ -215,10 +219,9 @@ Cada carpeta `proyectos/<nombre>/` contiene:
 - PERFIL.md — los datos del negocio (§2).
 - VOZ.md — frases, muletillas y vocabulario reales del creador, sacados de sus videos.
 - COMPLIANCE.md — reglas del sector (§10).
-- BANCO-DE-GANCHOS.md — 20 ganchos vivos con mecanismo y carril. Al usar uno se marca con
-  fecha y resultado. Cuando baja de 12, se reponen.
-- CALENDARIO.md — qué se publicó, qué día, carril, mecanismo, retención y clics. Es la única
-  fuente para decidir qué repetir. Lo que funcionó se vuelve a explotar con otro ángulo.
+- CALENDARIO.md — qué se publicó, qué día, gancho, palanca, carril, mecanismo, retención y
+  clics. Es la única fuente para decidir qué repetir. Lo que funcionó se vuelve a explotar
+  como PATRÓN con otro tema, nunca reciclando la frase.
 
 Cada vez que cambie algo estructural de un proyecto (nicho, producto, puerta de entrada,
 plataforma), se actualiza su carpeta en la misma tanda. Un documento desactualizado es un
