@@ -1,12 +1,12 @@
-# VOZ — [NOMBRE DEL PROYECTO]
+# VOZ — [NOMBRE]
 
-Fuente: transcripciones o videos reales del creador. Nunca inventado.
+Fuente: [transcripciones / videos / copy escrito (provisional)].
 
 ## Registro
-- Tú / usted / vos: [...]
+- Trato: [tú / usted / vos]
 - Tono: [...]
 
-## Muletillas y frases propias
+## Vocabulario y frases propias
 - [...]
 
 ## Palabras que NUNCA usa

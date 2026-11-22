@@ -12,8 +12,9 @@ El gancho es TRIPLE (CLAUDE.md §6.1): verbal + visual + contextual. Esta skill 
 
 ## 1. Entrada — de dónde sale la materia prima
 
-Toma del contexto, sin volver a preguntar lo que el brief ya dio:
-- Proyecto: `proyectos/<nombre>/PERFIL.md`, `VOZ.md`, `COMPLIANCE.md`, `CALENDARIO.md`.
+Toma del contexto, sin volver a preguntar lo que el brief o el proyecto ya dan:
+- Proyecto: `proyectos/<nombre>/PRODUCTO.md` (avatar, dolores, objeciones, mapa de ángulos),
+  `VOZ.md`, `REGISTRO.md` y `APRENDIZAJES.md`.
 - Pieza: orgánico / anuncio pagado / carrusel / story / intro de video largo (ver §6).
 - Tema y carril (ANZUELO / AUTORIDAD / CONVERSIÓN).
 - Qué se puede mostrar en cámara y dónde se graba.
@@ -50,8 +51,9 @@ Luego explora el tema desde al menos 5 de estas palancas de novedad:
 2. Fórmulas quemadas — solo se usan si se subvierten de forma visible:
    "nadie te dice esto", "el secreto que…", "POV:", "deja de hacer X", "3 errores que…",
    "esto cambió mi vida", "no vas a creer…", "espera al final".
-3. Lee el CALENDARIO.md del proyecto: no repitas un ángulo ya publicado. Si uno funcionó,
-   reutiliza el PATRÓN (palanca + mecanismo) con otro tema, nunca la frase.
+3. Lee REGISTRO.md y APRENDIZAJES.md del proyecto y la sección "Lecciones aprendidas" de
+   esta skill: no repitas un ángulo ya publicado; prioriza las palancas que funcionaron y
+   evita las descartadas. Si uno funcionó, reutiliza el PATRÓN, nunca la frase.
 4. Si hay herramienta de búsqueda disponible y el tema lo merece, mira qué aperturas circulan
    en el nicho esta semana — para evitarlas o romperlas, nunca para copiarlas.
 
@@ -71,8 +73,11 @@ Puntúa cada uno de 1 a 5:
 | Carril | ¿Encaja con ANZUELO / AUTORIDAD / CONVERSIÓN? |
 | Voz | ¿Lo diría el creador con sus palabras (VOZ.md)? |
 
-Eliminación directa, sin importar el puntaje: incumple COMPLIANCE (universal o del proyecto),
-promete algo que el video no paga, o necesita un dato que no existe.
+Eliminación directa, sin importar el puntaje: incumple la skill `compliance`, promete algo
+que el video no paga, o necesita un dato que no existe.
+
+En pauta, el criterio que manda es el hook rate esperado: si los datos propios dicen que una
+palanca rinde mejor, súbela en la puntuación.
 
 ## 5. Entrega
 
@@ -86,16 +91,17 @@ Por la ley de UNA versión (CLAUDE.md §4), se entrega el ganador:
 - **Deuda** — qué tiene que pagar el resto del guion para no traicionar al gancho.
 - **Riesgo** — si roza compliance o un dato no confirmado, se señala aparte.
 
-Si piden opciones, se entregan las 3 mejores con su puntaje y la recomendación.
+Si piden opciones, o si es para pauta (el plan de `anuncio-meta` pide 3 variantes), se
+entregan las 3 mejores — cada una de una palanca distinta — con su puntaje y la recomendación.
 Siempre se puede pedir "más raro" o "más seguro": se recalibra hacia novedad o hacia claridad.
 
 ## 6. Ajuste por tipo de pieza
 
 - **Reel / TikTok / Short orgánico**: reglas completas de arriba. 0-2 s.
 - **Anuncio pagado**: el gancho puede nombrar el problema más directo, pero NUNCA afirma
-  atributos personales del espectador ("¿Tienes sobrepeso?", "¿Sufres ansiedad?") — las
-  plataformas lo rechazan. Habla de la situación, no de la persona. Los 3 primeros segundos
-  deben funcionar también como miniatura estática.
+  atributos personales del espectador ("¿Tienes sobrepeso?", "¿Sufres ansiedad?") — ver
+  skill `compliance`. Habla de la situación, no de la persona. Los 3 primeros segundos
+  deben funcionar también como miniatura estática y sin sonido.
 - **Carrusel**: el gancho es la portada — texto ≤ 8 palabras + una imagen que lo contradiga o
   lo complete. La segunda lámina tiene que abrir otra pregunta.
 - **Story**: gancho en la primera lámina, conversacional, con elemento interactivo si aplica.
@@ -104,6 +110,9 @@ Siempre se puede pedir "más raro" o "más seguro": se recalibra hacia novedad o
 
 ## 7. Después de publicar
 
-El gancho usado se registra en el CALENDARIO.md del proyecto (columna "Gancho"), junto a su
-palanca, mecanismo y resultados. Esa es la memoria del sistema: patrones que funcionan,
-no frases para reciclar.
+El gancho usado se registra en el REGISTRO.md del proyecto junto a su palanca, mecanismo y
+resultados (lo hace la skill `aprender`). Esa es la memoria del sistema: patrones que
+funcionan, no frases para reciclar.
+
+## Lecciones aprendidas
+<!-- La skill `aprender` añade aquí lo confirmado. Formato: - AAAA-MM-DD · lección · evidencia -->
