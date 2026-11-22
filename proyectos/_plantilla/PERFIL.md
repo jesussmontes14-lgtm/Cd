@@ -1,0 +1,11 @@
+# PERFIL — [NOMBRE DEL PROYECTO]
+
+- Creador: [NOMBRE] · [CIUDAD/PAÍS] · [AÑOS DE EXPERIENCIA Y CREDENCIAL REAL]
+- Nicho exacto: [A QUIÉN LE HABLA, CON EDAD/SITUACIÓN/DESEO CONCRETO]
+- Producto: [NOMBRE] · [QUÉ ES] · [PRECIO] · [QUÉ INCLUYE]
+- Destino: [URL / DM / TIENDA] · Puerta de entrada gratuita: [NOMBRE PROPIO DEL RECURSO]
+- Transformación que vende: de [ESTADO A] a [ESTADO B] en [TIEMPO REAL, NO INFLADO]
+- Lo que NO es: [...]
+- Plataformas y seguidores hoy: [IG / TikTok / YT]
+- Proporción de carriles si difiere de 5/3/2: [...]
+- Restricciones: [temas vetados, lo que no quiere decir en cámara, competencia que no se nombra]
