@@ -83,3 +83,4 @@ esta skill.
 
 ## Lecciones aprendidas
 <!-- La skill `aprender` añade aquí lo confirmado. Formato: - AAAA-MM-DD · lección · evidencia -->
+- 2026-11-22 · Precio tachado solo si ese precio existió de verdad; la oferta del anuncio debe estar idéntica en la landing y en el checkout de Hotmart. · regla del creador

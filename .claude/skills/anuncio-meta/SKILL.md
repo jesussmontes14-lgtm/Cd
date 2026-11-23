@@ -94,3 +94,4 @@ varios días.
 
 ## Lecciones aprendidas
 <!-- La skill `aprender` añade aquí lo confirmado. Formato: - AAAA-MM-DD · lección · evidencia -->
+- 2026-11-19 · Verificar que el evento de optimización se dispara con la acción real antes de gastar: un checkout embebido disparaba InitiateCheckout al cargar y Meta optimizó a un evento falso (50 pagos iniciados, 0 compras). · evidencia: SIN PENA fase 1

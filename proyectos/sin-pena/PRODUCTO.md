@@ -26,12 +26,30 @@
 - Disclaimer de la página: "Contenido educativo de bienestar. No reemplaza la consulta ni el
   diagnóstico médico profesional."
 
-## Oferta temporal: Black November (dato del creador, 2026-11-22)
-- Regalo: libro del **reto de 21 días** [NOMBRE EXACTO — ¿es "MI PLAN 21 DÍAS" gratis?]
-- **LO QUE COMO YO** más económico: [PRECIO BLACK NOVEMBER] (normal USD 6.90)
-- Vigencia: [FECHA Y HORA DE FIN] · Países / zona horaria: [...]
-- Página de venta actualizada con la oferta: [PENDIENTE — hoy muestra los order bumps normales]
-- La urgencia solo se usa con la fecha real de fin (skill `compliance`: nada de escasez inventada).
+## Posicionamiento (regla del creador)
+- Titular: "Deja de adivinar qué le pasa a tu cuerpo y vuelve a sentirte tú"
+- Subtítulo: "El curso para dejar de vivir inflamada/o, cansada/o y sin ganas"
+- Forma doble siempre: inflamada/o, cansada/o (hombres y mujeres).
+- En ANUNCIOS se usa el titular; "y sin ganas" solo en orgánico (lectura sexual = riesgo en Meta).
+
+## Hotmart
+- Producto: "SIN PENA: vuelve a sentirte tú…" (curso) · USD 14.90 · ventas activas.
+- Order bumps (no verificado si siguen activos): **MI PLAN 21 DÍAS SIN PENA** (ebook, ~COP 28.005)
+  y **LO QUE COMO YO: 42 recetas de chef** (ebook, ~COP 24.460).
+- ⚠️ Incoherencia: la landing dice "LO QUE COMO YO · 21 recetas · USD 6.90" y Hotmart dice
+  "42 recetas". Corregir uno de los dos antes de pautar.
+- Checkout: los 3 botones de la landing van directo al link de pago (sin checkout embebido
+  desde el 19 nov). Píxel en la landing: PageView al cargar + InitiateCheckout al clic en
+  cualquier botón de pago.
+
+## Oferta Black November (vigencia: hasta el 30 nov 23:59)
+- ⚠️ PENDIENTE de decisión. Hay dos versiones en conversación:
+  - A (dicha por el creador en este chat, 22 nov): regalo del ebook del reto de 21 días +
+    LO QUE COMO YO a [PRECIO BLACK].
+  - B (recomendación del chat de origen): SIN PENA USD 14.90 con los 2 ebooks incluidos.
+    Alternativa: USD 9.90 con cupón.
+- Landing: banner + contador real con la misma oferta. Hoy la landing no la muestra.
+- Precio tachado solo si es un precio real que existió.
 
 ## Contenido
 | Cap. | Título | Descripción literal |

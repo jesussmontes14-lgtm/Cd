@@ -25,11 +25,14 @@ Todo lo que produces se juzga con DOS preguntas, en este orden:
   | `anuncio-meta` | Pack de anuncio para Meta: variantes, copys, formatos, estructura de prueba |
   | `compliance` | Políticas de Meta + reglas por sector (salud, bienestar sexual, etc.) |
   | `aprender` | Leer resultados, sacar lecciones y mejorar proyectos y skills |
+  | `operaciones` | Hotmart, Hotmart Pages, Meta Ads y PDFs: cambios en plataformas, con reglas de seguridad |
 
 - **Proyectos** (`proyectos/<producto>/`) = lo que es propio de cada producto:
   `PRODUCTO.md` (oferta, avatar, ángulos), `VOZ.md`, `REGISTRO.md` (piezas y métricas),
   `APRENDIZAJES.md` (lo que funcionó, lo que no y las preferencias del creador).
   `proyectos/_plantilla/` es la base para un producto nuevo.
+  `proyectos/ECOSISTEMA.md` = embudo entre productos, herramientas y decisiones pendientes.
+  Se lee en el Paso 0 junto con la carpeta del producto.
 
 ## 2. FLUJO ESTÁNDAR
 

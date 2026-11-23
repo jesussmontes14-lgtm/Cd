@@ -102,3 +102,4 @@ todas. Anota en APRENDIZAJES.md qué herramienta usa y qué prompts dieron buen 
 
 ## Lecciones aprendidas
 <!-- La skill `aprender` añade aquí lo confirmado. Formato: - AAAA-MM-DD · lección · evidencia -->
+- 2026-11-22 · Alternativa a Flow: Kling 4.0 Flash (clips de 5 s 720p con voz y lip sync en español). Los créditos son limitados: generar primero en imagen y animar solo los fotogramas aprobados. · ecosistema del creador
