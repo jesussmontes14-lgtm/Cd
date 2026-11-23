@@ -36,20 +36,22 @@
 - Producto: "SIN PENA: vuelve a sentirte tú…" (curso) · USD 14.90 · ventas activas.
 - Order bumps (no verificado si siguen activos): **MI PLAN 21 DÍAS SIN PENA** (ebook, ~COP 28.005)
   y **LO QUE COMO YO: 42 recetas de chef** (ebook, ~COP 24.460).
-- ⚠️ Incoherencia: la landing dice "LO QUE COMO YO · 21 recetas · USD 6.90" y Hotmart dice
-  "42 recetas". Corregir uno de los dos antes de pautar.
+- LO QUE COMO YO = **42 recetas** (decisión 2026-11-23: manda Hotmart). La landing dice
+  "21 recetas": corregirla antes de pautar.
 - Checkout: los 3 botones de la landing van directo al link de pago (sin checkout embebido
   desde el 19 nov). Píxel en la landing: PageView al cargar + InitiateCheckout al clic en
   cualquier botón de pago.
 
-## Oferta Black November (vigencia: hasta el 30 nov 23:59)
-- ⚠️ PENDIENTE de decisión. Hay dos versiones en conversación:
-  - A (dicha por el creador en este chat, 22 nov): regalo del ebook del reto de 21 días +
-    LO QUE COMO YO a [PRECIO BLACK].
-  - B (recomendación del chat de origen): SIN PENA USD 14.90 con los 2 ebooks incluidos.
-    Alternativa: USD 9.90 con cupón.
-- Landing: banner + contador real con la misma oferta. Hoy la landing no la muestra.
-- Precio tachado solo si es un precio real que existió.
+## Oferta Black November (DECIDIDA 2026-11-23 · vigencia hasta el 30 nov 23:59)
+- SIN PENA USD 14.90 + de regalo el ebook **MI PLAN 21 DÍAS SIN PENA**.
+- **LO QUE COMO YO: 42 recetas de chef** a precio Black: [PRECIO BLACK].
+- Sin precio tachado salvo que el precio anterior sea exactamente el que muestra Hotmart.
+- Para que sea real en la plataforma:
+  - [ ] Regalo: subir el PDF de MI PLAN 21 DÍAS al área de miembros de SIN PENA como
+        "Bonus Black November" (o la vía que el creador prefiera), y quitarlo como order bump.
+  - [ ] Order bump de LO QUE COMO YO con el precio Black.
+  - [ ] Landing: banner + contador real hasta el 30 nov 23:59, y "42 recetas" (no 21).
+  - [ ] El 1 dic: volver todo al estado normal.
 
 ## Contenido
 | Cap. | Título | Descripción literal |
