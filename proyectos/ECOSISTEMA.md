@@ -28,7 +28,7 @@ Calendario propuesto: 23 nov lanzar Black November · 24 nov abrir registro al w
 - Jesús en imágenes con IA: con sus tatuajes, camiseta INMERS, sin sonreír.
 
 ## Decisiones PENDIENTES del creador
-- [x] Oferta Black November decidida (ver sin-pena/PRODUCTO.md). Falta el precio Black de LO QUE COMO YO.
+- [x] Oferta Black November decidida (ver sin-pena/PRODUCTO.md). LO QUE COMO YO a USD 4.90.
 - [ ] Hora del webinar (propuesta: domingo 7 p. m. Bogotá / 6 p. m. CDMX).
 - [ ] Monto definitivo del descuento INMERS (hoy 10 %).
 - [ ] Precio del combo de cursos + libros (hoy igual al de INMERS solo).

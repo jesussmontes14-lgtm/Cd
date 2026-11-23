@@ -44,12 +44,12 @@
 
 ## Oferta Black November (DECIDIDA 2026-11-23 · vigencia hasta el 30 nov 23:59)
 - SIN PENA USD 14.90 + de regalo el ebook **MI PLAN 21 DÍAS SIN PENA**.
-- **LO QUE COMO YO: 42 recetas de chef** a precio Black: [PRECIO BLACK].
+- **LO QUE COMO YO: 42 recetas de chef** a precio Black: **USD 4.90**.
 - Sin precio tachado salvo que el precio anterior sea exactamente el que muestra Hotmart.
 - Para que sea real en la plataforma:
   - [ ] Regalo: subir el PDF de MI PLAN 21 DÍAS al área de miembros de SIN PENA como
         "Bonus Black November" (o la vía que el creador prefiera), y quitarlo como order bump.
-  - [ ] Order bump de LO QUE COMO YO con el precio Black.
+  - [ ] Order bump de LO QUE COMO YO a USD 4.90.
   - [ ] Landing: banner + contador real hasta el 30 nov 23:59, y "42 recetas" (no 21).
   - [ ] El 1 dic: volver todo al estado normal.
 
