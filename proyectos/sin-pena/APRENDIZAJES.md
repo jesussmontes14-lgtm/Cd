@@ -5,6 +5,7 @@ La skill `aprender` escribe aquí. Formato:
 
 ## Preferencias del creador
 <!-- Correcciones y gustos. Aplican desde la primera vez. -->
+- 2026-11-23 · Herramientas: imágenes ultra realistas en Gemini, animación en Google Flow. Quiere minimizar el riesgo en lo que dicen los personajes.
 - 2026-11-22 · Le interesan los formatos de DRAMA narrativo (historia de pareja con caída, transformación y arrepentimiento del otro) además de los formatos de chef. Pide conceptos variados entre sí.
 
 ## Lecciones confirmadas

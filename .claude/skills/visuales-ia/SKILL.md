@@ -78,5 +78,27 @@ Si el creador dice qué herramienta usa, ajusta la sintaxis (parámetros, longit
 negativo, image-to-video). Si no, entrega el prompt neutro de §2/§3, que funciona en casi
 todas. Anota en APRENDIZAJES.md qué herramienta usa y qué prompts dieron buen resultado.
 
+## 7. Flujo Gemini → Google Flow (ecosistema por defecto del creador)
+
+1. **Personajes primero**: en Gemini se genera una imagen de referencia por personaje (cara,
+   ropa, entorno). Se guarda y se reutiliza en TODOS los planos donde aparezca.
+2. **Fotogramas**: cada plano se genera en Gemini como imagen ultra realista estilo celular
+   (§2), en vertical. Si la herramienta no da 9:16, generar más alto y recortar.
+3. **Animación en Flow**:
+   - *Frames to Video*: la imagen de Gemini como primer fotograma + prompt SOLO de movimiento
+     (§3). Opcional: fotograma final para controlar dónde termina.
+   - *Ingredients to Video*: cuando el mismo personaje sale en varios planos, se suben sus
+     referencias para mantener la consistencia.
+   - Los clips salen más largos que el plano: se corta el mejor tramo de 2-3 s.
+4. **Diálogo en Flow (Veo)**: si un personaje habla, la frase va entre comillas en el prompt,
+   en español latino neutro, ≤ 6 palabras, y se pide "no subtitles, no on-screen text".
+   Frases de personaje: solo situacionales, en primera persona, sin nombrar condiciones de
+   salud, sin promesas y sin hablarle al espectador ("Otra vez las tres", no "¿Tú también te
+   despiertas?"). Lo que vende lo dice la voz en off del creador, no los personajes.
+5. **Texto**: nunca se le pide a la IA texto legible (precios, fechas, títulos): se deja
+   espacio libre y se pone en edición.
+6. **Pantallas**: lo que muestra el producto (plataforma del curso, PDFs) se graba de la
+   pantalla real. Una pantalla inventada por IA sería engañosa.
+
 ## Lecciones aprendidas
 <!-- La skill `aprender` añade aquí lo confirmado. Formato: - AAAA-MM-DD · lección · evidencia -->
