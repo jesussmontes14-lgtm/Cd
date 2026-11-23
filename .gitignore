@@ -42,3 +42,6 @@ htmlcov/
 .vscode/
 .idea/
 .DS_Store
+
+# Videos y entregables pesados (se envían por chat, no van al repo)
+entregas/
