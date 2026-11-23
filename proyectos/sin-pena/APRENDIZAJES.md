@@ -10,6 +10,7 @@ La skill `aprender` escribe aquí. Formato:
 - 2026-11-22 · Voz IA de Jesús aprobada. Jesús en IA: tatuajes, camiseta INMERS, sin sonreír.
 - 2026-11-23 · En anuncios se usa solo el titular "Deja de adivinar qué le pasa a tu cuerpo y vuelve a sentirte tú"; "sin ganas" queda para orgánico.
 - 2026-11-23 · Voz en off: la que funcione más → arrancar con la voz IA de Jesús (aprobada, rápida) y probar su voz real como variable cuando haya un ganador.
+- 2026-11-23 · La pauta es para público FRÍO (gente que no lo conoce). Para frío prefiere drama de pareja (mini novela) que toque todos los dolores con riesgo BAJO; el video de texto animado queda para remarketing.
 - 2026-11-22 · Usa también Kling para clips con voz y lip sync en español.
 - 2026-11-23 · Herramientas: imágenes ultra realistas en Gemini, animación en Google Flow. Quiere minimizar el riesgo en lo que dicen los personajes.
 - 2026-11-22 · Le interesan los formatos de DRAMA narrativo (historia de pareja con caída, transformación y arrepentimiento del otro) además de los formatos de chef. Pide conceptos variados entre sí.
